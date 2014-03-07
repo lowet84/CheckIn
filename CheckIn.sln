@@ -6,15 +6,23 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
 		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|x86.ActiveCfg = Debug|x86
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|x86.Build.0 = Debug|x86
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Debug|x86.Deploy.0 = Debug|x86
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|x86.ActiveCfg = Release|x86
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|x86.Build.0 = Release|x86
+		{527CACF0-3001-4F2D-AD90-3699527387FA}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
